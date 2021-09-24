@@ -3,3 +3,4 @@
 
 [LeetCode101](https://b6be07e4.wiz06.com/wapp/pages/view/share/s/2SLwvA25BQvE2z-wS026zQw91cfZoL35SAAB2sIlG51QOsHs)
 
+[Cookbook](https://books.halfrost.com/leetcode/)
